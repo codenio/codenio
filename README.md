@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps Tools and Technologies**
 
-- 📫 How to reach me **aananthk.eengr@gmail.com**
+- 📫 How to reach me **aananthk.mail@gmail.com**
 
 - ⚡ Fun fact **code over docs**
 
