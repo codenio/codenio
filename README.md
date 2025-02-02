@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 👯 I’m looking to collaborate on [bitscope](https://github.com/codenio/bitscope)
-
-- 🤝 I’m looking for help with [botkube](https://github.com/infracloudio/botkube)
-
 - 💬 Ask me about **DevOps Tools and Technologies**
 
 - 📫 How to reach me **aananthk.mail@gmail.com**
