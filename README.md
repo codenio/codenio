@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm codenio</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Product Development**
 
 - 💬 Ask me about **DevOps Tools and Technologies**
 
